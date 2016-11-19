@@ -1,4 +1,5 @@
 **Bibliography**
+
 •	Mokbel, M. F., “Privacy in Location-based Services: State- of-the-art and Research Directions”, In Proceedings of International Conference on Mobile Data Management IEEE. 2007. 
 
 •	Mölleryd, Bengt, “Development of High-speed Networks and the Role of Municipal Networks”, OECD Science, Technology and Industry Policy Papers, No. 26, OECD Publishing, Paris, 2015.
