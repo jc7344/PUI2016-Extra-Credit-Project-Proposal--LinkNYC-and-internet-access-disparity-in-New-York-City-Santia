@@ -1,12 +1,11 @@
-# Introduction
+**Data:**
+The nature of my project is divided in three dimensions: 1) a spatial analysis regarding the proximity to LinkNYC for all New Yorkers; 2) a correlation between broadband access and LinkNYC locations, and 3) a correlation between household income, internet access and proximity to kiosks (depending on the mapping method).
 
-The format of this template follows the typical journal publication which includes an **abstract** for summarizing the article, an **introduction**, **results** and **conclusion**. Examples of an **equation**, **list** and **citation** are also included.
+**Is the current disposition of LinkNYC kiosks contributing to the increasing internet access disparity in the city?**
 
-## The purpose of the introduction
 
-Most academic introductions follow an ‘inverted pyramid’ structure: they start broad and narrow down to a specific thesis or research question.
+1)	Total Population (Tabular-ACS 2009-2012 estimates) by census tract (Spatial-Bytes of the Big Apple), LinkNYC locations (Tabular-NYC open data), MapPLUTO (spatial-Bytes of the Big Apple)
 
-The introduction should reveal:
-  1. some broad knowledge of the overall topic
-  2. references to related and prior work in the field of investigation
-  3. succinct overview of the major point of the paper.
+2)	Internet Use (Tabular-ACS 2014 estimates) by census tract and LinkNYC locations.
+
+3)	Poverty (ACS 2009-2012 estimates) by census tract and LinkNYC locations (hopefully on GIS, by spatial join, buffer and proximity analysis)
