@@ -1,3 +1,2 @@
-# Conclusion
-
-The conclusion should reinforce the major claims or interpretation in a way that is not mere summary. The writer should try to indicate the significance of the major claim/interpretation beyond the scope of the paper but within the parameters of the field. The writer might also present complications the study illustrates or suggest further research the study indicates is necessary.
+**References:**
+As it was mentioned earlier, the current disparity in internet access will be analyzed based on the latest policy paper published by the office of the Comptroller. Additionally, and as way to provide a context, I will examine Martin Lehofer’s paper on platforms for smart cities and OECD-funded studies about high-speed and municipal networks. Finally, I will review Mayor de Blasio’s public announcements regarding the role of LinkNYC in decreasing internet access disparity in the city. 
