@@ -4,6 +4,11 @@ As it was mentioned earlier, the current disparity in internet access will be an
 **Deliverable:**
 The result of my analysis will be presented as a policy recommendation both for community and municipal leaders. My intention is to translate technical language into succinct information in order to facilitate decision-making and promote participatory planning in the City. 
 
+
+
+
+
+
 **Bibliography**
 •	Mokbel, M. F., “Privacy in Location-based Services: State- of-the-art and Research Directions”, In Proceedings of International Conference on Mobile Data Management IEEE. 2007. 
 
