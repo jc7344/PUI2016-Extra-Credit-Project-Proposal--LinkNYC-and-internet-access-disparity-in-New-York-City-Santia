@@ -1,3 +1,2 @@
-# Results
-
-This section is only included in papers that rely on primary research. This section catalogues the results of the experiment. The results should be presented in a clear and unbiased way. Most results sections will contain [links](http://authorea.com) as well as citations \cite{Einstein_2006} and equations such as \(e^{i\pi}+1=0\).
+**Analysis:**
+All the data wrangling will be done with python. Unnecessary values will be dropped and datasets will be merged and/or aggregated according to the purpose of the project. In order to better communicate exiting conditions, I will perform reverse geocoding to obtain zip codes from latitude/longitude locations (for all spatial data) and I will plot them both against broadband access levels. I will also create a 1/2mile buffer around kiosks and analysis linear distance between residents and links. 
