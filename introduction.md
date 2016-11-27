@@ -1,5 +1,5 @@
 **Data:**
-The nature of my project is divided in three dimensions: 1) a spatial analysis regarding the proximity to LinkNYC for all New Yorkers; 2) a correlation between broadband access and LinkNYC locations, and 3) a correlation between household income, internet access and proximity to kiosks (depending on the mapping method).
+The nature of my project is divided in two dimensions: 1) a spatial analysis regarding the proximity to LinkNYC for all New Yorkers, and 2) a correlation between individual mean income and proximity to kiosks (depending on the mapping method).
 
 **Is the current disposition of LinkNYC kiosks contributing to the increasing internet access disparity in the city?**
 
