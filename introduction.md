@@ -10,4 +10,5 @@ The nature of my project is divided in three dimensions: 1) a spatial analysis r
 
 3)	Poverty (ACS 2009-2012 estimates) by census tract and LinkNYC locations (hopefully on GIS, by spatial join, buffer and proximity analysis)
 
-4) Mean income in the past 12 months (in 2014 inflation-adjusted dollars)
+4)Mean income in the past 12 months(in 2014 inflation-adjusted dollars)-ACS 2012 five year estimate 
+
